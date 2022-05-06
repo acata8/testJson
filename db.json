@@ -80,6 +80,16 @@
       "TotaleScartati": 20,
       "DataInizio": "2022-05-01T09:10:00.925Z",
       "DataFine": "2022-05-02T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "ODL_TEST",
+      "TotalePezzi": 3000,
+      "TotaleBuoni": 520,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 120,
+      "TotaleScartati": 420,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-02T09:10:00.925Z"
     }
   ]
 }

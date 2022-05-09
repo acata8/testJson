@@ -1,0 +1,104 @@
+{
+  "Produzione": [
+    {
+      "CodiceODL": "1_000001",
+      "TotalePezzi": 5,
+      "TotaleBuoni": 5,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 0,
+      "TotaleScartati": 0,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "1_000002",
+      "TotalePezzi": 6,
+      "TotaleBuoni": 5,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 1,
+      "TotaleScartati": 0,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "1_000003",
+      "TotalePezzi": 5,
+      "TotaleBuoni": 5,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 0,
+      "TotaleScartati": 0,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "1_000004",
+      "TotalePezzi": 150,
+      "TotaleBuoni": 2,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 1,
+      "TotaleScartati": 1,
+      "DataInizio": "2022-04-30T09:10:00.925Z",
+      "DataFine": "2022-05-02T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "1_000005",
+      "TotalePezzi": 10,
+      "TotaleBuoni": 1,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 0,
+      "TotaleScartati": 9,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "ODLDEC",
+      "TotalePezzi": 10.81,
+      "TotaleBuoni": 4.81,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 0,
+      "TotaleScartati": 3,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "ODLDEC_1",
+      "TotalePezzi": 10.81,
+      "TotaleBuoni": 10.81,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 0,
+      "TotaleScartati": 0,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-03T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "1_000010",
+      "TotalePezzi": 150,
+      "TotaleBuoni": 50,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 10,
+      "TotaleScartati": 20,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-02T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "ODL-FAKE",
+      "TotalePezzi": 1550,
+      "TotaleBuoni": 503,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 310,
+      "TotaleScartati": 20,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-02T09:10:00.925Z"
+    },
+    {
+      "CodiceODL": "ODL_0000X",
+      "TotalePezzi": 150,
+      "TotaleBuoni": 3,
+      "TotaleBloccati": 0,
+      "TotaleDaRilavorare": 10,
+      "TotaleScartati": 20,
+      "DataInizio": "2022-05-01T09:10:00.925Z",
+      "DataFine": "2022-05-02T09:10:00.925Z"
+    }
+  ]
+}
